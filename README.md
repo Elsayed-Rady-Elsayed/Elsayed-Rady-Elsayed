@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sayed__rady" target="blank"><img src="https://img.shields.io/twitter/follow/sayedrady?logo=twitter&style=for-the-badge" alt="sayedrady" /></a> </p>
 
-- 🔭 I’m currently working on [TECHNO_ZONE_REACT]([https://elsayed-rady-elsayed.github.io/comfort/](https://github.com/Elsayed-Rady-Elsayed/TECHNO_ZONE_REACT))
+- 🔭 I’m currently working on [TECHNO_ZONE_REACT](https://github.com/Elsayed-Rady-Elsayed/TECHNO_ZONE_REACT)
 
 - 🌱 I’m currently learning **Mern stack**
 
