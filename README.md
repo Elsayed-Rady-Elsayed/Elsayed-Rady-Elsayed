@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  </a>
+</div>
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Elsayed Rady Elsayed</h1>
 <h3 align="center">A passionate web developer from EGYPT</h3>
@@ -34,8 +39,4 @@
 
 
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>
-</div>
+
