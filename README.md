@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sayed__rady" target="blank"><img src="https://img.shields.io/twitter/follow/sayedrady?logo=twitter&style=for-the-badge" alt="sayedrady" /></a> </p>
 
-- 🔭 I’m currently working on [Comfort E-commerce](https://elsayed-rady-elsayed.github.io/comfort/)
+- 🔭 I’m currently working on [TECHNO_ZONE_REACT]([https://elsayed-rady-elsayed.github.io/comfort/](https://github.com/Elsayed-Rady-Elsayed/TECHNO_ZONE_REACT))
 
 - 🌱 I’m currently learning **Mern stack**
 
 - 👯 I’m looking to collaborate on **Eduactional website**
 
-- 🤝 I’m looking for help with [konade green e-commerce](https://github.com/Elsayed-Rady-Elsayed/konado)
+- 🤝 I’m looking for help to get full time job
 
 - 💬 Ask me about **html,css,js,bootstrap,tailwind,react js,angular,php**
 
