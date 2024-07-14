@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sayed__rady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayedrady" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/elsayed-rady-elsayed-73b541288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elsayed rady elsayed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elsayed-rady-elsayed-73b541288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elsayed rady elsayed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sayed.rady.3720/?locale=ar_AR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayed rady" height="30" width="40" /></a>
 <a href="https://instagram.com/sayed__rady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayed__rady" height="30" width="40" /></a>
 </p>
