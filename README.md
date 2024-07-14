@@ -33,7 +33,7 @@
 ![Elsayed-Rady-Elsayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsayed-Rady-Elsayed&show_icons=true&theme=radical)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsayed-rady-elsayed&show_icons=true&locale=en" alt="elsayed-rady-elsayed" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elsayed-Rady-Elsayed&hide_progress=true)
 
 
 <div align="center">
