@@ -1,5 +1,5 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Elsayed Rady Elsayed</h1>
+<h1 align="center">Hi 👋, I'm Sayed</h1>
 <h3 align="center">A passionate web developer from EGYPT</h3>
 <img align="right" alt="img" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 
