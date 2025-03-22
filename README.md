@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsayed-rady-elsayed" alt="elsayed-rady-elsayed" /></a> </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elsayed-Rady-Elsayed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elsayed-Rady-Elsayed&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+
 - 🔭 I’m currently working on **Aman**
 
 - 👨‍💻 All of my projects are available at [https://adorable-tartufo-44ea0d.netlify.app/](https://adorable-tartufo-44ea0d.netlify.app/)
