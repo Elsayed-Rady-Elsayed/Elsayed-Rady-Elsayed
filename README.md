@@ -11,7 +11,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **Aman**
+- 🔭 I’m currently searching for job
 
 - 👨‍💻 All of my projects are available at [https://adorable-tartufo-44ea0d.netlify.app/](https://adorable-tartufo-44ea0d.netlify.app/)
 
